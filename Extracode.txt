@@ -1,0 +1,14 @@
+﻿RevanthService.ServiceSoapClient _client = new RevanthService.ServiceSoapClient();
+_client.ClientCredentials.UserName.UserName = "username";
+_client.ClientCredentials.UserName.Password = "pwd";
+
+using(new OperationContextScope(_client.InnerChannel)){
+	SoapAuthHeader.Create(
+	_client.ClientCredentials.UserName.UserName,
+	_client.ClientCredentials.UserName.Password
+	);
+
+	DateTime datetime = _client.GetCurrentTime();
+}
+
+

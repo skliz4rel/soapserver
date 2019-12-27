@@ -1,0 +1,14 @@
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.csprojAssemblyReference.cache
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.csproj.CoreCompileInputs.cache
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.RazorAssemblyInfo.cache
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.RazorAssemblyInfo.cs
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.AssemblyInfoInputs.cache
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.AssemblyInfo.cs
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.RazorTargetAssemblyInfo.cache
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.dll
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\obj\Release\netcoreapp2.2\ConsumeSoap.RestApi.pdb
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\bin\Release\netcoreapp2.2\ConsumeSoap.RestApi.deps.json
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\bin\Release\netcoreapp2.2\ConsumeSoap.RestApi.runtimeconfig.json
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\bin\Release\netcoreapp2.2\ConsumeSoap.RestApi.runtimeconfig.dev.json
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\bin\Release\netcoreapp2.2\ConsumeSoap.RestApi.dll
+C:\Users\skliz\Documents\Visual Studio 2019\sources\repos\ConsumeSoap\ConsumeSoap.RestApi\bin\Release\netcoreapp2.2\ConsumeSoap.RestApi.pdb
